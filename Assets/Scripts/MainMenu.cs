@@ -1,0 +1,24 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class MainMenu : MonoBehaviour {
+
+	public void Play()
+    {
+        //Add the logic to choose btwn two modes.
+        //Use the build index
+        SceneManager.LoadScene("Level-1");
+    }
+
+    public void Quit()
+    {
+        //Doesnt happen in the debugger
+        Debug.Log("QUIT IT!");
+
+        Application.Quit();
+
+    }
+     
+}

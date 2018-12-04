@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Clouds
+  - Enemy_Aeroplane
+  - ScoreKeeper
+  - trooper
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Cloud
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 627174429
+    locked: 0
+  - name: Cloud
+    uniqueID: 2787330753
+    locked: 0
+  - name: Foreground
+    uniqueID: 59296317
+    locked: 0
+  - name: shield
+    uniqueID: 4168764451
+    locked: 0
